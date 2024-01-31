@@ -1,5 +1,7 @@
 # Исследование поведения пользователей мобильного приложения стартапа
 
+[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/aab_test_of_mobile_app_users/aab_test_project.ipynb)
+
 ## Задача
 
 - Анализ результатов A/A/B-эксперимента

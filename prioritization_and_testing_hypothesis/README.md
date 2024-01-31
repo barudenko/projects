@@ -1,5 +1,7 @@
 # Приоретизация и проверка гипотез маркетингового отдела интернет-магазина
 
+[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/prioritization_and_testing_hypothesis/prioritization_and_testing_hypothesis_project.ipynb)
+
 ## Задача
 
 - Анализ A/B-теста

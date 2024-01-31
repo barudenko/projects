@@ -1,5 +1,7 @@
 # Исследование поведения пользователей мобильного приложения
 
+[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/research_of_mobile_app_users/mobile_app_users_project.ipynb)
+
 ## Задача
 
 Сегментация пользователей, определение целевых групп по показателям ключевых метрик, проверка гипотез.

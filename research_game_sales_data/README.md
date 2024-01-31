@@ -1,5 +1,7 @@
 # Исследование данных о продажах игр
 
+[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/research_game_sales_data/game_sales_project.ipynb)
+
 ## Задача
 
 - Выявление закономерностей, определяющих успешность игр

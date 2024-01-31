@@ -1,5 +1,7 @@
 # Исследование рынка заведений общественного питания Москвы
 
+[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/moscow_public_catering_market_research/public_catering_market_project.ipynb)
+
 ## Задача
 
 1. Определение приоритетной локации и типа открываемого заведения общественного питания в г. Москва

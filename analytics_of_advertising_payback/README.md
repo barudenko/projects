@@ -1,5 +1,7 @@
 # Аналитика окупаемости рекламы развлекательного приложения
 
+[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/analytics_of_advertising_payback/advertising_payback_project.ipynb)
+
 ## Задача
 
 - Выяснить, окупается ли реклама, направленная на привлечение пользователей в целом.

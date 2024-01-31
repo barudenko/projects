@@ -1,5 +1,7 @@
 # Тестирование изменений, связанных с внедрением улучшенной рекомендательной системы
 
+[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/ab_test_improved_recommendation_system/ab_test_project.ipynb)
+
 ## Задача
 
 Оценка корректности проведения A/B-теста, анализ его результатов и проверка статистических гипотез.
