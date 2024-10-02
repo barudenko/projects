@@ -1,7 +1,8 @@
 # Анализ профессиональных матчей Dota 2
 
-[Открыть проект в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/dota_2_pro_matches_research/dota_2.ipynb)
+[Открыть исследование в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/dota_2_pro_matches_research/dota_2_research.ipynb)
 
+[Открыть подготовку даннынх в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/dota_2_pro_matches_research/dota_2_data_preparation.ipynb)
 ## Цель исследования
 
 Посмотреть, что происходит на профессиональной сцене Dota 2 в последнем патче: посмотреть на героев, предметы, их винрейт, на длительность матча и время первого фб. И посмотреть на некоторые командные показатели, и определить, влияют ли они на победу в матче, или нет.
