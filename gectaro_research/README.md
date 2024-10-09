@@ -1,4 +1,4 @@
-# Исследовательский анализ данных сервиса для управления строительством и ремонтом Gectaro
+# Gectaro. Исследовательский анализ данных сервиса для управления строительством и ремонтом.
 
 [Открыть исследование в nbviewer](https://nbviewer.org/github/barudenko/projects/blob/main/gectaro_research/gectaro.ipynb)
 
